@@ -8,7 +8,7 @@ Dynamic Full Stack Developer with 2 years of experience, adept in Angular and Re
 
 * 🌍  I'm based in Himachal Pradesh, India
 * 🖥️  See my portfolio at [sanyam-trehan.in](http://sanyam-trehan.in)
-* ✉️  You can contact me at [sanyam.sanyam.trehan@gmail.com](mailto:sanyam.sanyam.trehan@gmail.com)
+* ✉️  You can contact me at [trehansanyam@gmail.com](mailto:trehansanyam@gmail.com)
 * 🚀  I'm currently working on [DYPIS School Website](http://dypiskangra.in/)
 * 🧠  I'm learning ReactJs
 * 🤝  I'm open to collaborating on Projects
