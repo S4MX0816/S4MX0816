@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-Dynamic Full Stack Developer with 2 years of experience, adept in Angular and React. Excels in full Frontend life cycles, optimizing codebase for performance, and implementing Cypress tests. Committed to exceptional quality, user journeys, and collaboration. Proficient in JavaScript, HTML, CSS, and innovative tech. Seeking challenging prospects to leverage skills and drive innovation.
+Dynamic Full Stack Developer with 3+ years of experience, adept in Angular and React. Excels in full Frontend life cycles, optimizing codebase for performance, and implementing Cypress tests. Committed to exceptional quality, user journeys, and collaboration. Proficient in JavaScript, HTML, CSS, and innovative tech. Seeking challenging prospects to leverage skills and drive innovation.
 
 * 🌍  I'm based in Himachal Pradesh, India
 * 🖥️  See my portfolio at [sanyam-trehan.in](http://sanyam-trehan.in)
